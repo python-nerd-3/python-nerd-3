@@ -1,3 +1,8 @@
-coding amateur that doesn't even know lua
+# its me Mario
+hi
 
-UPDATE I am learning JavaScript
+i don't know how you found my profile, maybe issues i made on big repositories
+
+i'm still learning a lot about coding
+
+one day i will rule thee world __Mua Ha Ha!!!1__
